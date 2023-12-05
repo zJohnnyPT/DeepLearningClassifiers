@@ -29,3 +29,11 @@ In our project we decided to explore the Multilayer Perceptron (MLP) and the Con
   
 ## Libraries
 Libraries that need download - librosa, pandas, matplotlib.pyplot, IPython, soundfile, scikit-learn, keras, tensorflow, seaborn, 
+
+## References
+- https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141
+- https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+- https://towardsdatascience.com/cnns-for-audio-classification-6244954665ab
+- https://www.geeksforgeeks.org/plotting-various-sounds-on-graphs-using-python-and-matplotlib/
+- https://www.analyticsvidhya.com/blog/2021/06/visualizing-sounds-librosa/
+- https://towardsdatascience.com/urban-sound-classification-part-1-99137c6335f9
