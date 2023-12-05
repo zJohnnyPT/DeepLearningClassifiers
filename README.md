@@ -28,4 +28,4 @@ In our project we decided to explore the Multilayer Perceptron (MLP) and the Con
     - Accuracy per class
   
 ## Libraries
-Libraries that need download - 
+Libraries that need download - librosa, pandas, matplotlib.pyplot, IPython, soundfile, scikit-learn, keras, tensorflow, seaborn, 
